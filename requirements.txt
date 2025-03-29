@@ -1,0 +1,4 @@
+# Librerías utilizadas 
+Pandas 
+matplotlib.pyplot 
+stats 
