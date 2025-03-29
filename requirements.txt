@@ -1,4 +1,4 @@
 # Librerías utilizadas 
 Pandas 
-matplotlib.pyplot 
+matplotlib
 stats 
