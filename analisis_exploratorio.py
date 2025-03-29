@@ -15,7 +15,6 @@
    "source": [
     "#Librerías a utilizar \n",
     "import pandas as pd\n",
-    "import numpy as np \n",
     "import matplotlib.pyplot as plt \n",
     "from scipy import stats as st"
    ]
