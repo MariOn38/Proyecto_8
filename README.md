@@ -9,3 +9,4 @@ La aplicación permite ver unos gráficos y pruebas de hipótesis.
 
 Para poderse ejecutar se requirieron las librerías de Pandas, Stats, matplotlib.pyplot.
 
+(Enlace al repositorio de GitHub) [https://github.com/MariOn38/Proyecto_8.git] (Enlace a la aplicación en Render) [https://proyecto-8-7.onrender.com]
